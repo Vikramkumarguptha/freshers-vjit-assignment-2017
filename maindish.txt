@@ -1,0 +1,13 @@
+1.Veg_Fried_Rice 50
+2.Egg_Fried_Rice 60
+3.Chicken_Fried_Rice 80
+4.Dal_Makhani 120
+5.Nizami_Handi 210
+6.Kadai_Paneer 180
+7.Paneer_Butter_Masala 220
+8.Palak_Paneer 150
+9.Chicken_Curry 220
+10.Tandoori_Chicken_Masala 250
+11.Butter_Chicken_Boneless 450
+12.Special_Chicken 300
+13.Mutton_Tikka_Masala 420

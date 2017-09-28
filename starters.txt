@@ -1,0 +1,6 @@
+1.Baby_Corn_Manchurian 100
+2.Veg_Manchurian 80
+3.Gobi_Manchurian 100
+4.Chilli_Paneer 130
+5.Chilli_Chicken 250
+6.Chicken_Manchurian 180

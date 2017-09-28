@@ -1,0 +1,6 @@
+1.Double_ka_Meetha 90
+2.Qubani_ka_Meetha 130
+3.Gulab_Jamun 50
+4.Gajar_ka_Halwa 100
+5.Chocolate_Browine 110
+6.Ice_Cream 40
